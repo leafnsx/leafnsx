@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**leafnsx/leafnsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Miguel 👋
 
-Here are some ideas to get you started:
+### Mechanical Engineering Student | Aspiring Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Mechanical Engineering student with an interest in robotics, mechanical design, and programming.
+
+I enjoy understanding how things work, solving problems, and applying engineering concepts through hands-on projects.
+
+## 🔧 What I'm Working On
+
+- **RC Car Conversion:** Exploring the process of converting a gas-powered RC car to an electric drivetrain.
+- **Programming:** Developing my skills in Python, C++, and Java.
+- **Engineering Projects:** Building practical experience through independent and team-based projects.
+
+## 📚 Currently Learning
+
+- Engineering mechanics and physics
+- Calculus and mathematical modeling
+- Electronics and motor control
+- Programming and technical documentation
